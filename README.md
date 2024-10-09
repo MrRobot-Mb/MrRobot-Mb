@@ -1,4 +1,3 @@
-Yo im Mr Robot,ZaBao 
-My scripts are completely free and have no keys.
-if you want to support me: 
-Youtube :https://youtube.com/@mrrobot-q5w?si=CCpyVPeN4VtFxh64
+你好，我的名字是Zapao，我是一个简单的黑客工具制作者。我创建了Mr Robot频道，因为我希望人们不会浪费时间去获取代码，只是为了使用一个糟糕、不错、超级棒的脚本。  
+你刚刚花了很多时间来解码这个Readme.md文件并阅读这些内容，而我这样做只是为了好玩。对不起！
+wwww
